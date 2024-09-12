@@ -11,8 +11,7 @@
 
 <body 
   <p style="background-image: url(bckflower.png);"</p> 
- <center> <h2 style="color:palevioletred";>...<br></h2></center>
-  <center><br></center>center>
+ <center> <h2 style="color:palevioletred";>...<br>...</h2></center>
   <center> <h2 style="color:palevioletred";"> My name is Lauren</h2></center> 
   <center><h2 style="color:palevioletred ;">I am 17</h2></center>
   <center> <h2 style="color:palevioletred ;">After high school, I am going to BC and then I am going to Fresno State University</h2></center> 
