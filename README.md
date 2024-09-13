@@ -24,7 +24,8 @@
   <h2 style="color:palevioletred";"> I am 17</h2>
   <div class="center">
   <h2 style="color:palevioletred";">After high school, I am going to BC and then I am going to Fresno State University </h2>
-  <center> <img src="fresnostate.webp"; width="150px"></img></center> 
+  <div class="center">
+  <h2 <img src="fresnostate.webp"; width="150px"></img></h2>
   <div class="center">
   <h2 style="color:palevioletred";"> In the future I want to become an athletic trainer</h2>
   <script src="script.js"></script>
