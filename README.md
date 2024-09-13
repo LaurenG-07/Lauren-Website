@@ -10,7 +10,7 @@
 </head>
 <style>
 .center {
-  padding: 70px 0;
+  padding: 120px 0;
   border: 3px solid green;
 }
 </style>
